@@ -15,4 +15,5 @@
 - [Cyber Threat Coalition - domains](https://blocklist.cyberthreatcoalition.org/vetted/domain.txt)
 - [Cyber Threat Coalition - URLs](https://blocklist.cyberthreatcoalition.org/vetted/url.txt)
 - [Dictionary SSH Attacks](http://charles.the-haleys.org/ssh_dico_attack_hdeny_format.php/hostsdeny.txt)
+- [Abuse.ch](https://abuse.ch)
 
