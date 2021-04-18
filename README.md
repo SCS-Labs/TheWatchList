@@ -1,5 +1,8 @@
 
 
+Feeds/Lists that are `Malicious` will have a underscore `_` in front of it. 
+
+
 ## Other Threat Intel Feeds
 
 - [Alienvault IP Reputation](http://reputation.alienvault.com/reputation.data)
