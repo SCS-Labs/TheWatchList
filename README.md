@@ -1,6 +1,7 @@
+![](https://github.com/SCS-Labs/Images/raw/main/SCS%20-%20The%20WatchList.png)
 
 
-Feeds/Lists that are `Malicious` will have a underscore `_` in front of it. 
+
 
 
 ## Other Threat Intel Feeds
