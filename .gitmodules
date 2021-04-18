@@ -1,0 +1,12 @@
+[submodule "3rd-Party-Submodules/blocklists"]
+	path = 3rd-Party-Submodules/blocklists
+	url = https://github.com/justdomains/blocklists.git
+[submodule "3rd-Party-Submodules/blackweb"]
+	path = 3rd-Party-Submodules/blackweb
+	url = https://github.com/maravento/blackweb.git
+[submodule "3rd-Party-Submodules/blackip"]
+	path = 3rd-Party-Submodules/blackip
+	url = https://github.com/maravento/blackip.git
+[submodule "3rd-Party-Submodules/hosts-blocklists"]
+	path = 3rd-Party-Submodules/hosts-blocklists
+	url = https://github.com/notracking/hosts-blocklists.git
