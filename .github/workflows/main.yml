@@ -4,14 +4,10 @@ name: Update submodules
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "*/180   *   *   *   *"
   pull_request:
   push:
     branches:
       - master
-
-
 
 jobs:
   test:
