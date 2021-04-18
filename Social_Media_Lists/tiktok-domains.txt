@@ -1,0 +1,13 @@
+v16a.tiktokcdn.com
+ib.tiktokv.com
+v16m.tiktokcdn.com
+api.tiktokv.com
+log.tiktokv.com
+api2-16-h2.musical.ly
+mon.musical.ly
+p16-tiktokcdn-com.akamaized.net
+api-h2.tiktokv.com
+v19.tiktokcdn.com
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
