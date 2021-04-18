@@ -10,3 +10,6 @@
 [submodule "3rd-Party-Submodules/hosts-blocklists"]
 	path = 3rd-Party-Submodules/hosts-blocklists
 	url = https://github.com/notracking/hosts-blocklists.git
+[submodule "blocklist-ipsets"]
+	path = 3rd-Party-Submodules/blocklist-ipsets
+	url = https://github.com/firehol/blocklist-ipsets.git
