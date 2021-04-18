@@ -1,7 +1,3 @@
-# Threatview.io
-> Threatview.io Feeds
-- [Threatview](https://threatview.io/Downloads/)
-
 
 
 ## Other Threat Intel Feeds
