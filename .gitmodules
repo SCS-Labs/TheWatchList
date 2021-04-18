@@ -1,0 +1,15 @@
+[submodule "blocklists"]
+	path = blocklists
+	url = https://github.com/justdomains/blocklists.git
+[submodule "blackweb"]
+	path = blackweb
+	url = https://github.com/maravento/blackweb.git
+[submodule "blackip"]
+	path = blackip
+	url = https://github.com/maravento/blackip.git
+[submodule "hosts-blocklists"]
+	path = hosts-blocklists
+	url = https://github.com/notracking/hosts-blocklists.git
+[submodule "blocklist-ipsets"]
+	path = blocklist-ipsets
+	url = https://github.com/firehol/blocklist-ipsets.git
