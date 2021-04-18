@@ -1,0 +1,11 @@
+.adult
+.beer
+.chat
+.club
+.onion
+.poker
+.porn
+.sex
+.sexy
+.vodka
+.xxx
