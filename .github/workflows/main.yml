@@ -23,12 +23,14 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v2
       
       - name: Checkout submodules
         run: git submodule update --init --recursive
         
+      - name: Git pull Submodules
+        run: git submodule foreach "git checkout master; git pull"
+         
 
 
