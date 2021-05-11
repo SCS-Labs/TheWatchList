@@ -3,7 +3,6 @@
 
 
 
-
 ## Other Threat Intel Feeds
 
 - [Alienvault IP Reputation](http://reputation.alienvault.com/reputation.data)
